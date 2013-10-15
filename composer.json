@@ -18,8 +18,7 @@
         {
             "type": "vcs",
             "url": "https://github.com/timbostop/google-analytics"
-        },
-       
+        }
     ],
     "require": {
         "symfony/framework-bundle": "2.*",
