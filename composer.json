@@ -14,15 +14,9 @@
             "email": "geloen.eric@gmail.com"
         }
     ],
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/timbostop/google-analytics"
-        }
-    ],
     "require": {
         "symfony/framework-bundle": "2.*",
-        "widop/google-analytics": "1.0.*",
+        "widop/google-analytics": "dev-master",
         "widop/http-adapter-bundle": "1.*"
     },
     "require-dev": {
